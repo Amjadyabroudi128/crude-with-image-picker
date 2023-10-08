@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "985312890850",
+    "project_id": "crude-test-df937",
+    "storage_bucket": "crude-test-df937.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985312890850:android:7934317fe7a3067ac9f3bb",
+        "android_client_info": {
+          "package_name": "com.example.crudetest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANtIZtE7l90xngd80dEli0bGXVrryVrOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
